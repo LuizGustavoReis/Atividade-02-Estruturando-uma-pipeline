@@ -18,6 +18,6 @@ jobs:
     - name: Deploy to Vercel
       run: vercel --token ${{ aEpuv6HCFABBYMMJsdZA0Tg3 }} --prod # Se der erro, pode tentar colocar --yes
       env:
-        VERCEL_ORG_ID: ${{ uB5xua53LQKAERFOhZ4p3wW4 }}
+        VERCEL_ORG_ID: ${{ team_V6G4AJcGEgubVoGPZ2iVzJRD }}
         VERCEL_PROJECT_ID: ${{ prj_x59ATW9mOoHgZILk44fQe4KHrbdU }}
 
